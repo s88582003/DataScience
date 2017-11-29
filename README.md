@@ -2,4 +2,5 @@
 Data -> Python -> Analyze -> Visualize
 
 
-* Kaggle 
+* Kaggle
+* Titanic 
