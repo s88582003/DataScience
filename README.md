@@ -1,6 +1,6 @@
 # DataScience
-Data -> Python -> Analyze -> Visualize
+Question Definition -> Get train datasets -> Clean & prepare data -> Analyze -> Create a model to predict the question -> Visualize
 
 
-* Kaggle
-* Titanic 
+* Titanic
+* Digit Recognizer
